@@ -6,7 +6,7 @@
 </head>
 <body>
    <ul>
-      <h1>Angela's Cinnammon Roll Recipe</h1>
+      <h1>Angela's Cinnamon Roll Recipe</h1>
    </ul>
     <br>
       <h2>ingredients</h2>
