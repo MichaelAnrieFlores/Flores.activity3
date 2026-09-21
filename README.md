@@ -20,7 +20,7 @@
       <li>1/2 teaspoon salt</li>
    </ul>
      <br>
-      <h4>For the filling</h4>
+      <h4>For the filling:</h4>
    <ul>
       <li>1 teaspoon vanilla extract</li>
       <li>1/4 cup butter</li>
@@ -28,7 +28,7 @@
       <li>1/2 cup brown sugar</li>
    </ul>
      <br>
-     <h5>instructions</h5>
+     <h5>Instructions</h5>
      <ol>
       <li>Mix the warm milk, yeast, and sugar in a bowl.</li>
       <li>Add the egg and melted butter, then mix well.</li>
