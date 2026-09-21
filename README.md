@@ -1,5 +1,3 @@
-# Flores.activity3
-<!DOCTYPE html>
 <html lang="en">
 <head>
    <meta charsett="UTF-8">
